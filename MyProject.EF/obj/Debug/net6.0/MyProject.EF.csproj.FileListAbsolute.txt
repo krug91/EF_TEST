@@ -1,0 +1,17 @@
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\bin\Debug\net6.0\MyProject.EF.deps.json
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\bin\Debug\net6.0\MyProject.EF.runtimeconfig.json
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\bin\Debug\net6.0\MyProject.EF.dll
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\bin\Debug\net6.0\MyProject.EF.pdb
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\bin\Debug\net6.0\MyProJect.DTO.dll
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\bin\Debug\net6.0\MyProJect.DTO.pdb
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.csproj.AssemblyReference.cache
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.AssemblyInfoInputs.cache
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.AssemblyInfo.cs
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.csproj.CoreCompileInputs.cache
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.csproj.CopyComplete
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.dll
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\refint\MyProject.EF.dll
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.pdb
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\MyProject.EF.genruntimeconfig.cache
+C:\Users\gimys\source\repos\Winform_Entity\MyProject.EF\obj\Debug\net6.0\ref\MyProject.EF.dll

@@ -1,0 +1,12 @@
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\bin\Debug\net6.0\MyProJect.DTO.deps.json
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\bin\Debug\net6.0\MyProJect.DTO.dll
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\bin\Debug\net6.0\MyProJect.DTO.pdb
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\MyProJect.DTO.csproj.AssemblyReference.cache
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\MyProJect.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\MyProJect.DTO.AssemblyInfoInputs.cache
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\MyProJect.DTO.AssemblyInfo.cs
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\MyProJect.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\MyProJect.DTO.dll
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\refint\MyProJect.DTO.dll
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\MyProJect.DTO.pdb
+C:\Users\gimys\source\repos\Winform_Entity\MyProJect.DTO\obj\Debug\net6.0\ref\MyProJect.DTO.dll
